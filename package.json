@@ -1,7 +1,7 @@
 {
   "name": "shopnx",
   "version": "1.1.0",
-  "description": "ShopNx AngularJS Full Stack Shopping Cart Application",
+  "description": "Full Stack Shopping Cart Application",
   "keywords": [
     "CodeNx",
     "Node.js",
@@ -14,8 +14,8 @@
     "Single Page Web App"
   ],
   "author": {
-    "name": "Swadesh",
-    "email": "itswadesh@gmail.com",
+    "name": "good886",
+    "email": "good886@gmail.com",
     "url": "http://www.codenx.com/"
   },
   "homepage": "http://biri.in/",
@@ -106,7 +106,8 @@
     "time-grunt": "~0.3.1"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.10.x",
+    "npm": "1.2.x"
   },
   "scripts": {
     "start": "node server/app.js",
